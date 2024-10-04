@@ -28,10 +28,10 @@
 
 //Problem - 01
 
-let newBtn = document.createElement("button");
-newBtn.innerText = "Click Me!"
-newBtn.style.cssText = "background-color:red;color:white; margin-bottom:20px; padding:8px; border:none;";
-document.querySelector("body").prepend(newBtn);
+// let newBtn = document.createElement("button");
+// newBtn.innerText = "Click Me!"
+// newBtn.style.cssText = "background-color:red;color:white; margin-bottom:20px; padding:8px; border:none;";
+// document.querySelector("body").prepend(newBtn);
 
 
    
